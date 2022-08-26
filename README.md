@@ -1,5 +1,5 @@
 # CCPHtml
 Custom Command Parser :troll:
 
-#Link
+# Link
 https://ty1991twitter.github.io/CCPHtml/
